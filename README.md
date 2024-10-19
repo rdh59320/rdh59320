@@ -35,7 +35,7 @@ Don't you think ?
 
 - 🔭 I'm currently working on many projects but I particulary enjoy refurbishing antiques.
 
-- ⚡ Fun fact1: My oldest laptop home was initially running Windows 2000 and it still works on Debian. Moreover, it will be 22 on January 23th 2025 which means it is already allowed to buy alcool in the US ;-) ! 
+- ⚡ Fun fact1: My oldest laptop home was initially running Windows 2000 and it still works on Debian today. Moreover, it will be 22 on January 23th 2025 which means it is already old enough to buy alcohol in the US 😄 ! 
 
  - ⚡ Fun fact2: While teaching beginners how to use Ubuntu and other distros, the older are the hardest to convince at first but also the most grateful and happy afterwards ! One of my 70 years old student asked me several times if I was sure it was free to use because he found it much better and quicker than Windows 10 !
 
@@ -43,7 +43,7 @@ Don't you think ?
 
   <hr>
 
-  <h3 align="center">With Kind regards, Bien à Vous, Met Vriendelijke Groeten, Roman</h3>
+  <h3 align="center">With Kind Regards, Bien à Vous, Met Vriendelijke Groeten, Roman</h3>
 
   
 <!--
