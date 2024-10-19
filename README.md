@@ -26,6 +26,26 @@ I've seen many improvements the Linux community have done the last 10 years and 
 
 Don't you think ?
 
+<hr> 
+
+
+- 🤔 Always looking for improvements : I am a complete autodidact so if you notice errors or have suggestions, it would be a pleasure for me to discuss with a pro !
+
+- 📫 How to reach me: **pcr59320@gmail.com**
+
+- 🔭 I'm currently working on many projects but I particulary enjoy refurbishing antiques.
+
+- ⚡ Fun fact1: My oldest laptop home was initially running Windows 2000 and it still works on Debian. Moreover, it will be 22 on January 23th 2025 which means it is already allowed to buy alcool in the US ;-) ! 
+
+ - ⚡ Fun fact2: While teaching beginners how to use Ubuntu and other distros, the older are the hardest to convince at first but also the most grateful and happy afterwards ! One of my 70 years old student asked me several times if I was sure it was free to use because he found it much better and quicker than Windows 10 !
+
+- 💬 Question for everyone (including me): Sometimes, I wonder wether the greatest motivation come from a balanced combination between passion, obsession and above all *laziness* ???
+
+  <hr>
+
+  <h3 align="center">With Kind regards, Bien à Vous, Met Vriendelijke Groeten, Roman</h3>
+
+  
 <!--
 **rdh59320/rdh59320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
