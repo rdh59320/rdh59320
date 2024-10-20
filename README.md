@@ -7,7 +7,7 @@
 
 <hr>
 
-As a senior R&D Engineer who grew up during the 90', computer became a powerful everyday tool during my studies but especially during my past professional experiences.
+As a R&D Engineer who grew up during the 90', computer became a powerful everyday tool during my studies but especially during my past professional experiences.
 
 Performing complex matrix calculations or just writing reports would have been a pain if done manually ! 
 That's why I think it would have been very difficult to live without since my first desktop on MS Windows 95.
