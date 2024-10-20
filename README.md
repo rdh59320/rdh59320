@@ -16,13 +16,14 @@ That's why I think it would have been very difficult to live without since my fi
 I was already very enthusiastic about the Open-Source and one day, now 10 years ago, I decided to quit using proprietary softwares and OS to focus on free alternatives. 
 
 I do not have computer sciences background but I spent a lot of time reading on forums about system administration and optimization, new projects and new languages. 
-Long time ago, I tried to learn Java but I changed my mind when I discovered Python (it was still python2 at this time then the 3 came few times later).
+Long time ago, I tried to learn Java but I changed my mind when I discovered Python (it was still python2 at this time then came python3 few months later).
 
 5 years ago, my former girlfriend, who was not used to a linux distro, had big troubles to start the VPN app (which had to be set up in command line) in order to watch the Belgian TV. 
-This was the time to learn how to create desktop app to activate the VPN or shut it down : you click and it's a kind of magic !
+This was the time to learn how to create desktop app to activate the VPN or shut it down. 
+Just a text file with a script and a picture then you click and it's a kind of magic !
 
 Nowadays, I am still learning and I also developed a strong passion for shell scripting. 
-I've seen many improvements the Linux community have done the last 10 years and when I think of the hundred millions of computers which can not be upgraded to Win 11 next year, there might be an opportunity for the open source community to seize. 
+I've seen the many improvements the Linux community have done since the last 10 years and when I think of the hundred millions of computers which can not be upgraded to Win 11 next year, there might be an opportunity for the open source community to seize. 
 
 Don't you think ?
 
@@ -33,7 +34,7 @@ Don't you think ?
 
 - 📫 How to reach me: **pcr59320@gmail.com**
 
-- 🔭 I'm currently working on many projects but I particulary enjoy refurbishing antiques.
+- 🔭 I'm currently working on many projects about sciences and customized computer setup but I particulary enjoy refurbishing antiques (see Fun fact 1 !).
 
 - ⚡ Fun fact1: My oldest laptop home was initially running Windows 2000 and it still works on Debian today. Moreover, it will be 22 on January 23th 2025 which means it is already old enough to buy alcohol in the US 😄 ! 
 
