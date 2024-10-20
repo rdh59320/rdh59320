@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, my name is Romain D'HAËSE</h1>
+<h1 align="center">Hi there 👋, my name is Romain (or Roman if you don't speak french)</h1>
 
 <hr>
 
