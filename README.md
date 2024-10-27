@@ -4,6 +4,7 @@
 
 <h3 align="center">I am an Analytical Chemistry Engineer from Lille (Northern France) next to the Belgian border.</h3>
 <h3 align="center">Nevertheless, I am also in fond of Computering ( and Computing or Computerizing as well !!!)</h3>
+<h3 align="center">Maybe one day, I will retrain as a Linux Back End Developper (or maybe it's just a dream !)</h3>
 
 <hr>
 
